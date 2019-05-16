@@ -1,0 +1,2 @@
+(S(NP (NNP Thor))(VP (VBD was)(NP(NP (DT the) (NN king))(PP (IN of)(NP (NNP Asgard))))))
+(S(NP (PRP He))(VP (VBD was)(NP(NP (DT a) (JJ fierce))(CC and)(NP (DT a) (JJ strong) (NN ruler)))))

@@ -1,0 +1,1 @@
+(S (NP (NNP स्मिथ) (IN ने))(VP (PP (NP (PRP अपने)(NN ट्रक))(IN में))(VP (NP (NN चालक)(IN को))(VBD देखा))))
